@@ -94,3 +94,6 @@
 
 * https://github.com/reachkrishnaraj/kafka-elasticsearch-standalone-consumer[Kafka Standalone Consumer]
   Easily Scaleable & Extendable, Kafka Standalone Consumer that will read the messages from Kafka, processes and index them in ElasticSearch
+
+* https://wordpress.org/plugins/wpsolr-search-engine/[WPSOLR]
+  Elasticsearch (and Apache Solr) WordPress Plugin
